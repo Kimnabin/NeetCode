@@ -68,6 +68,6 @@ class Solution3 {
         Arrays.sort(sArray);
         Arrays.sort(tArray);
 
-        return Arrays.equals(sArray, tArray);
+        return Arrays.equals(sArray, tArray);   // check if two arrays are equal
     }
 }
